@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-surprise
+fastapi
+uvicorn
+streamlit
+requests
+scikit-learn
+matplotlib
+plotly

@@ -1,0 +1,7 @@
+
+timestamp,user_id,movie_id,movie_title,event
+2026-10-14T13:09:36,1,10,"Toy Story (1995)",click
+2026-10-14T13:09:56,1,10,"Toy Story (1995)",click
+2026-10-14T13:11:06,1,10,"Toy Story (1995)",click
+2026-10-14T13:11:08,1,10,"Toy Story (1995)",click
+2026-10-14T13:46:23.484406,1,10,Toy Story (1995),click
